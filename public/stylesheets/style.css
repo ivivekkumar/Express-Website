@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+
+.jumbotron{
+  background:url(../images/sample.jpeg) no-repeat; 
+}
+
+footer{
+  background: mintcream;
+  height: 40px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+  overflow: auto;
+}
